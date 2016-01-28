@@ -46,7 +46,7 @@
  * http://bit.ly/1abPkrP
  */
 
-import React from 'react'
+import React from 'react-native'
 import { assign, isFunction } from './functions'
 
 function connectToStores(Spec, Component = Spec) {
